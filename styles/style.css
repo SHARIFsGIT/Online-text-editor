@@ -130,3 +130,7 @@ footer{
         color: steelblue;
     }
 }
+
+.active{
+    background-color: rgba(135, 207, 235, 0.401);
+}
